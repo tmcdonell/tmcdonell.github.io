@@ -21,34 +21,34 @@ When not doing the above I (occasionally) practice [martial arts](https://www.fa
 
 ### Publications
 
- * Ghostbuster: A Tool for Simplifying and Converting GADTs ([slides](https://speakerdeck.com/tmcdonell/ghostbuster-a-tool-for-simplifying-and-converting-gadts)) ([video](https://youtu.be/rhuu-oD0W5U)).
+ * Ghostbuster: A Tool for Simplifying and Converting GADTs ([pdf](https://github.com/tmcdonell/tmcdonell.github.io/raw/master/papers/ghostbuster-icfp2016.pdf), [slides](https://speakerdeck.com/tmcdonell/ghostbuster-a-tool-for-simplifying-and-converting-gadts), [video](https://youtu.be/rhuu-oD0W5U)).
    [ICFP 2016](http://conf.researchr.org/home/icfp-2016),
    with Timothy A. K. Zakian, Matteo Cimini, and Ryan R. Newton
 
- * Type-safe Runtime Code Generation: Accelerate to LLVM ([slides](https://speakerdeck.com/tmcdonell/type-safe-runtime-code-generation-accelerate-to-llvm)) ([video](https://www.youtube.com/watch?v=snXhXA5noVc)).
+ * Type-safe Runtime Code Generation: Accelerate to LLVM ([pdf](https://github.com/tmcdonell/tmcdonell.github.io/raw/master/papers/acc-llvm-haskell2015.pdf), [slides](https://speakerdeck.com/tmcdonell/type-safe-runtime-code-generation-accelerate-to-llvm), [video](https://www.youtube.com/watch?v=snXhXA5noVc)).
    [Haskell Symposium 2015](https://www.haskell.org/haskell-symposium/2015/),
    with Manuel M. T. Chakravarty, Vinod Grover, and Ryan R. Newton
 
- * Converting Data-Parallelism to Task-Parallelism by Rewrites.
+ * Converting Data-Parallelism to Task-Parallelism by Rewrites ([pdf](https://github.com/tmcdonell/tmcdonell.github.io/raw/master/papers/acc-multidev-fhpc2015.pdf)).
    [FHPC 2015](https://sites.google.com/site/fhpcworkshops/),
    with Bo Joel Svensson, Michael Vollmer, Eric Holk, and Ryan R. Newton
 
- * Optimising Purely Functional GPU Programs.
+ * Optimising Purely Functional GPU Programs ([pdf](https://github.com/tmcdonell/tmcdonell.github.io/raw/master/papers/TrevorMcDonell_PhD_Thesis.pdf)).
    PhD Thesis, submitted July 2014
 
- * Embedding Foreign Code.
+ * Embedding Foreign Code ([pdf](https://github.com/tmcdonell/tmcdonell.github.io/raw/master/papers/acc-ffi-padl2014.pdf)).
    [PADL 2014](http://www.ist.unomaha.edu/padl2014/),
    with Robert Clifton-Everest, Manuel M. T. Chakravarty, and Gabriele Keller
 
- * Optimising Purely Functional GPU Programs ([slides](https://speakerdeck.com/tmcdonell/optimising-purely-functional-gpu-programs)).
+ * Optimising Purely Functional GPU Programs ([pdf](https://github.com/tmcdonell/tmcdonell.github.io/raw/master/papers/acc-optim-icfp2013.pdf), [slides](https://speakerdeck.com/tmcdonell/optimising-purely-functional-gpu-programs)).
    [ICFP 2013](http://icfpconference.org/icfp2013),
    with Manuel M. T. Chakravarty, Gabrielle Keller, and Ben Lippmeier
 
- * Accelerating Haskell Array Codes with Multicore GPUs.
+ * Accelerating Haskell Array Codes with Multicore GPUs ([pdf](https://github.com/tmcdonell/tmcdonell.github.io/raw/master/papers/acc-cuda-damp2011.pdf)).
    [DAMP 2011](http://damp2011.cs.uchicago.edu/),
    with Manuel M. T. Chakravarty, Gabriele Keller, Sean Lee, and Vinod Grover
 
- * Scalable Computer Vision Applications.
+ * Scalable Computer Vision Applications ([pdf](https://github.com/tmcdonell/tmcdonell.github.io/raw/master/papers/scalable-computer-vision-gtc2010.pdf)).
    [NVIDIA GPU Technology Conference 2010](http://www.gputechconf.com/page/home.html) ([poster session](http://www.gputechconf.com/gtcnew/on-demand-gtc.php?searchByKeyword=&searchItems=&sessionTopic=&sessionEvent=2&sessionYear=2010&sessionFormat=5&submit=&select=+#593)),
    with Rami Mukhtar and Ben Lever
 
@@ -58,11 +58,11 @@ When not doing the above I (occasionally) practice [martial arts](https://www.fa
  * Object extraction in colour compound documents, US Patent US8351691B2 / Refining text extraction in colour compound documents, AU Patent 2008260018
    with Yi-Ling Chen and Ping Liu
 
- * NH3 on Si(001): Can Gaussian cluster and planewave slab models agree on energetics?
+ * NH3 on Si(001): Can Gaussian cluster and planewave slab models agree on energetics? ([pdf](https://github.com/tmcdonell/tmcdonell.github.io/raw/master/papers/SurfaceScience_601_14.pdf))
    [Surface Science, 601, 14 (2007)](http://dx.doi.org/10.1016/j.susc.2007.05.017),
    with Oliver Warschkow and Nigel A. Marks
 
- * Molecular Dissociation of group-V hydrides on Si(001)
+ * Molecular Dissociation of group-V hydrides on Si(001) ([pdf](https://github.com/tmcdonell/tmcdonell.github.io/raw/master/papers/PhysRevB_72_193307.pdf)).
    [Phys. Rev. B, 72, 193307 (2005)](http://dx.doi.org/10.1103/PhysRevB.72.193307),
    with Nigel A. Marks, Oliver Warschkow, H. F. Wilson, P. V. Smith and M. W. Radny
 
