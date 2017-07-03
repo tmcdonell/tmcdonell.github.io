@@ -18,8 +18,14 @@ I have been spotted at [various](http://www.bicyclenetwork.com.au/general/great-
 
 When not doing the above I (occasionally) practice [martial arts](https://www.facebook.com/MizongKungFu).
 
+Most of my work is available on [GitHub](https://github.com/tmcdonell/).
+
 
 ### Publications
+
+ * Streaming Irregular Arrays ([preprint](https://github.com/tmcdonell/tmcdonell.github.io/raw/master/papers/acc-seq2-haskell2017.pdf)).
+   [Haskell Symposium 2017](https://www.haskell.org/haskell-symposium/2017/) (to appear),
+   with Robert Clifton-Everest, Manuel M. T. Chakravarty, and Gabriele Keller
 
  * Ghostbuster: A Tool for Simplifying and Converting GADTs ([pdf](https://github.com/tmcdonell/tmcdonell.github.io/raw/master/papers/ghostbuster-icfp2016.pdf), [slides](https://speakerdeck.com/tmcdonell/ghostbuster-a-tool-for-simplifying-and-converting-gadts), [video](https://youtu.be/rhuu-oD0W5U)).
    [ICFP 2016](http://conf.researchr.org/home/icfp-2016),
@@ -72,12 +78,14 @@ When not doing the above I (occasionally) practice [martial arts](https://www.fa
 
 `Data.Array.Accelerate` defines an embedded language of array computations for high performance computing in Haskell. Computations on multi-dimensional, dense, regular arrays are expressed in the form of parameterised collective operations, such as maps, reductions, and permutations. These computations may be online compiled and executed on a range of architectures, such as GPUs.
 
+ * [Webpage](http://www.acceleratehs.org)
  * [Hackage](http://hackage.haskell.org/package/accelerate)
- * [GitHub](https://github.com/AccelerateHS) repository including [issue tracker](https://github.com/AccelerateHS/accelerate/issues) and [wiki](https://github.com/AccelerateHS/accelerate/wiki).
+ * [GitHub](https://github.com/AccelerateHS) repository and [issue tracker](https://github.com/AccelerateHS/accelerate/issues).
 
 
 ### Teaching
 
+ * 2017: [COMP3141: Software System Design and Implementation](https://webcms3.cse.unsw.edu.au/COMP3141/17s1/) (guest lecturer)
  * 2013: [COMP1911: Computing 1A](http://www.cse.unsw.edu.au/~cs1911/) (tutor)
  * 2012: [COMP4181: Language-Based Software Safety](http://www.cse.unsw.edu.au/~cs4181/) (guest lecturer) (slides)
  * 2012: [COMP1917: Computing 1](http://www.cse.unsw.edu.au/~cs1917/) (tutor)
