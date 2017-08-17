@@ -23,8 +23,8 @@ Most of my work is available on [GitHub](https://github.com/tmcdonell/).
 
 ### Publications
 
- * Streaming Irregular Arrays ([preprint](https://github.com/tmcdonell/tmcdonell.github.io/raw/master/papers/acc-seq2-haskell2017.pdf)).
-   [Haskell Symposium 2017](https://www.haskell.org/haskell-symposium/2017/) (to appear),
+ * Streaming Irregular Arrays ([pdf](https://github.com/tmcdonell/tmcdonell.github.io/raw/master/papers/acc-seq2-haskell2017.pdf)).
+   [Haskell Symposium 2017](https://www.haskell.org/haskell-symposium/2017/),
    with Robert Clifton-Everest, Manuel M. T. Chakravarty, and Gabriele Keller
 
  * Ghostbuster: A Tool for Simplifying and Converting GADTs ([pdf](https://github.com/tmcdonell/tmcdonell.github.io/raw/master/papers/ghostbuster-icfp2016.pdf), [slides](https://speakerdeck.com/tmcdonell/ghostbuster-a-tool-for-simplifying-and-converting-gadts), [video](https://youtu.be/rhuu-oD0W5U)).
