@@ -1,6 +1,8 @@
 ### About Me
 
-I am currently a Research Associate at with the [Programming Languages and Systems](http://www.cse.unsw.edu.au/~pls/PLS/PLS.html) group in the [School of Computer Science and Engineering](http://www.cse.unsw.edu.au/) at the [University of New South Wales, Australia](http://www.unsw.edu.au/). My interests include parallel programming (in particular, data parallelism), functional programming languages, and using graphics processors and other compute accelerators for high-performance computing.
+I am currently a Junior Assistant Professor with the [Software Technology](https://www.uu.nl/en/research/software-systems/software-technology) group in the [Department of Information and Computing Sciences](https://www.uu.nl/en/organisation/department-of-information-and-computing-sciences) at [Universiteit Utrecht](https://www.uu.nl). My interests include parallel programming (in particular, data parallelism), functional programming languages, and using graphics processors and other compute accelerators for high-performance computing.
+
+I was previously an Research Associate with the [Programming Languages and Systems](http://www.cse.unsw.edu.au/~pls/PLS/PLS.html) group in the [School of Computer Science and Engineering](http://www.cse.unsw.edu.au/) at the [University of New South Wales, Australia](http://www.unsw.edu.au/).
 
 I previously held a Postdoctoral Researcher position at the [School of Informatics and Computing](http://www.soic.indiana.edu/) and the [Center for Research in Extreme Scale Technologies](https://www.crest.iu.edu/) at [Indiana University Bloomington, USA](http://iu.edu/).
 
@@ -22,6 +24,10 @@ Most of my work is available on [GitHub](https://github.com/tmcdonell/).
 
 
 ### Publications
+
+ * Ghostbuster: A tool for simplifying and converting GADTs ([pdf](papers/ghostbuster-jfp2017.pdf)).
+   [Journal of Functional Programming, 28, 16 (2018)](https://doi.org/10.1017/S0956796818000114),
+   with Timothy A. K. Zakian, Matteo Cimini, and Ryan R. Newton
 
  * Streaming Irregular Arrays ([pdf](https://github.com/tmcdonell/tmcdonell.github.io/raw/master/papers/acc-seq2-haskell2017.pdf)).
    [Haskell Symposium 2017](https://www.haskell.org/haskell-symposium/2017/),
@@ -85,6 +91,10 @@ Most of my work is available on [GitHub](https://github.com/tmcdonell/).
 
 ### Teaching
 
+ * 2019: [INFOSP: Computer Software Projects](http://www.cs.uu.nl/education/vak.php?vak=INFOSP) (mentor)
+ * 2019: [INFOAFP: Advanced Functional Programming](http://www.cs.uu.nl/education/vak.php?vak=INFOAFP) (joint lecturer)
+ * 2018: [INFOB3TC: Talen en Compilers](http://www.cs.uu.nl/education/vak.php?vak=INFOB3TC) (joint lecturer)
+ * 2018: [INFOB3CC: Concurrency](http://www.cs.uu.nl/education/vak.php?vak=INFOB3CC) (joint lecturer)
  * 2017: [COMP3141: Software System Design and Implementation](https://webcms3.cse.unsw.edu.au/COMP3141/17s1/) (guest lecturer)
  * 2013: [COMP1911: Computing 1A](http://www.cse.unsw.edu.au/~cs1911/) (tutor)
  * 2012: [COMP4181: Language-Based Software Safety](http://www.cse.unsw.edu.au/~cs4181/) (guest lecturer) (slides)
