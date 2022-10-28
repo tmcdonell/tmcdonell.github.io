@@ -12,9 +12,9 @@ I was a student at the [University of Sydney, Australia](http://www.usyd.edu.au/
 
 After graduating, I held a brief internship at the [Andøya Rocket Range](http://www.rocketrange.no/) (Andøya, Norway). Before returning to academia, I worked as a software engineer for [Canon Information Systems Research Australia (CiSRA)](http://cisra.com.au/) (Sydney, Australia). I also took some time out of my PhD to intern at the [National Institute of Informatics (NII)](http://www.nii.ac.jp/) (Tokyo, Japan) as well as the compilers group of [NVIDIA](http://www.nvidia.com/page/home.html) (Seattle, USA).
 
-I spend most of my time implementing [Functional Programming Languages](http://www.cs.nott.ac.uk/~pszgmh/faq.html), which I use to program both multicore SMP systems as well as [CUDA](http://www.nvidia.com/object/cuda_home_new.html) graphics cards for general purpose computations ([GPGPU](http://gpgpu.org/)).
+I spend most of my time implementing [Functional Programming Languages](http://www.cs.nott.ac.uk/~pszgmh/faq.html), primarily using [Haskell](https://www.haskell.org) and [LLVM](https://llvm.org), which I use to program both multicore SMP systems as well as [CUDA](http://www.nvidia.com/object/cuda_home_new.html) graphics cards for general purpose computations ([GPGPU](http://gpgpu.org/)).
 
-I was a regular at [FP-Syd](http://fp-syd.ouroborus.net/).
+Before moving to The Netherlands I was a regular at the [FP-Syd](http://fp-syd.ouroborus.net/) meetup, but now I can be found at [Haskell Utrecht](https://www.meetup.com/haskell-utrecht/) instead.
 
 I have been spotted at [various](http://www.bicyclenetwork.com.au/general/great-rides/20005/) [cycling](http://selfpropelled.com.au/event/mont-24/) [and](http://www.gongride.org.au/) ([ultra](https://www.taraweraultra.co.nz)) [running](http://www.parkrun.com.au) [events](http://city2surf.com.au).
 
@@ -25,14 +25,26 @@ Most of my work is available on [GitHub](https://github.com/tmcdonell/).
 
 ### Publications
 
- * Accelerating Nested Data Parellelism: Preserving Regularity ([pdf](papers/acc-regularity-europar2020.pdf), [video](https://youtu.be/HbXD63-iw-s)).
+ * Embedded Pattern Matching ([pdf](https://github.com/tmcdonell/tmcdonell.github.io/raw/master/papers/acc-pattern.pdf), [slides](https://speakerdeck.com/tmcdonell/annotating-deeply-embedded-languages), [video](https://youtu.be/Y1s28Sm5s8E), [artefact](https://github.com/tmcdonell/embedded-pattern-matching/)).
+   [Haskell Symposium 2022](https://www.haskell.org/haskell-symposium/2022/index.html),
+   with Joshua D. Meredith and Gabriele Keller
+
+ * Annotating Deeply Embedded Languages ([slides](https://speakerdeck.com/tmcdonell/annotating-deeply-embedded-languages), [video](https://youtu.be/2KNkl7W8Rok)).
+   [Haskell Implementers Workshop 2022](https://icfp22.sigplan.org/home/hiw-2022),
+   with Robbert van der Helm and Gabriele Keller
+
+ * Reverse Automatic Differentiation for Accelerate (Extended Abstract) ([video](https://www.youtube.com/watch?v=AbtBjwkFU24)).
+   [FHPNNC: Functional High-Performance and Numerical Computing 2020](https://icfp21.sigplan.org/home/FHPNC-2021),
+   with Tom Smeding and Matthijs Vákár
+
+ * Accelerating Nested Data Parallelism: Preserving Regularity ([pdf](https://github.com/tmcdonell/tmcdonell.github.io/raw/master/papers/acc-regularity-europar2020.pdf), [video](https://youtu.be/HbXD63-iw-s)).
    [Euro-Par 2020](https://2020.euro-par.org),
    with Lars B. van den Haak, Gabriele K. Keller, and Ivo Gabe de Wolff
 
  * Keynote: Functional High-Performance Computing ([slides](https://speakerdeck.com/tmcdonell/functional-high-performance-computing))
-   [Functional High-Performance and Numerical Computing 2019](https://icfp19.sigplan.org/home/FHPNC-2019)
+   [FHPNC: Functional High-Performance and Numerical Computing 2019](https://icfp19.sigplan.org/home/FHPNC-2019)
 
- * Ghostbuster: A tool for simplifying and converting GADTs ([pdf](papers/ghostbuster-jfp2017.pdf)).
+ * Ghostbuster: A tool for simplifying and converting GADTs ([pdf](https://github.com/tmcdonell/tmcdonell.github.io/raw/master/papers/ghostbuster-jfp2017.pdf)).
    [Journal of Functional Programming, 28, 16 (2018)](https://doi.org/10.1017/S0956796818000114),
    with Timothy A. K. Zakian, Matteo Cimini, and Ryan R. Newton
 
@@ -41,7 +53,7 @@ Most of my work is available on [GitHub](https://github.com/tmcdonell/).
    with Robert Clifton-Everest, Manuel M. T. Chakravarty, and Gabriele Keller
 
  * Ghostbuster: A Tool for Simplifying and Converting GADTs ([pdf](https://github.com/tmcdonell/tmcdonell.github.io/raw/master/papers/ghostbuster-icfp2016.pdf), [slides](https://speakerdeck.com/tmcdonell/ghostbuster-a-tool-for-simplifying-and-converting-gadts), [video](https://youtu.be/rhuu-oD0W5U)).
-   [ICFP 2016](http://conf.researchr.org/home/icfp-2016),
+   [ICFP: International Conference on Functional Programming 2016](http://conf.researchr.org/home/icfp-2016),
    with Timothy A. K. Zakian, Matteo Cimini, and Ryan R. Newton
 
  * Type-safe Runtime Code Generation: Accelerate to LLVM ([pdf](https://github.com/tmcdonell/tmcdonell.github.io/raw/master/papers/acc-llvm-haskell2015.pdf), [slides](https://speakerdeck.com/tmcdonell/type-safe-runtime-code-generation-accelerate-to-llvm), [video](https://www.youtube.com/watch?v=snXhXA5noVc)).
@@ -49,22 +61,22 @@ Most of my work is available on [GitHub](https://github.com/tmcdonell/).
    with Manuel M. T. Chakravarty, Vinod Grover, and Ryan R. Newton
 
  * Converting Data-Parallelism to Task-Parallelism by Rewrites ([pdf](https://github.com/tmcdonell/tmcdonell.github.io/raw/master/papers/acc-multidev-fhpc2015.pdf)).
-   [FHPC 2015](https://sites.google.com/site/fhpcworkshops/),
+   [FHPC: Functional High-Performance Computing 2015](https://sites.google.com/site/fhpcworkshops/),
    with Bo Joel Svensson, Michael Vollmer, Eric Holk, and Ryan R. Newton
 
  * Optimising Purely Functional GPU Programs ([pdf](https://github.com/tmcdonell/tmcdonell.github.io/raw/master/papers/TrevorMcDonell_PhD_Thesis.pdf)).
    PhD Thesis, submitted July 2014
 
  * Embedding Foreign Code ([pdf](https://github.com/tmcdonell/tmcdonell.github.io/raw/master/papers/acc-ffi-padl2014.pdf)).
-   [PADL 2014](http://www.ist.unomaha.edu/padl2014/),
+   [PADL: Practical Aspects of Declarative Languages 2014](http://www.ist.unomaha.edu/padl2014/),
    with Robert Clifton-Everest, Manuel M. T. Chakravarty, and Gabriele Keller
 
  * Optimising Purely Functional GPU Programs ([pdf](https://github.com/tmcdonell/tmcdonell.github.io/raw/master/papers/acc-optim-icfp2013.pdf), [slides](https://speakerdeck.com/tmcdonell/optimising-purely-functional-gpu-programs)).
-   [ICFP 2013](http://icfpconference.org/icfp2013),
+   [ICFP: International Conference on Functional Programming 2013](http://icfpconference.org/icfp2013),
    with Manuel M. T. Chakravarty, Gabrielle Keller, and Ben Lippmeier
 
  * Accelerating Haskell Array Codes with Multicore GPUs ([pdf](https://github.com/tmcdonell/tmcdonell.github.io/raw/master/papers/acc-cuda-damp2011.pdf)).
-   [DAMP 2011](http://damp2011.cs.uchicago.edu/),
+   [DAMP: Declarative Aspects of Multicore Programming 2011](http://damp2011.cs.uchicago.edu/),
    with Manuel M. T. Chakravarty, Gabriele Keller, Sean Lee, and Vinod Grover
 
  * Scalable Computer Vision Applications ([pdf](https://github.com/tmcdonell/tmcdonell.github.io/raw/master/papers/scalable-computer-vision-gtc2010.pdf)).
@@ -98,8 +110,8 @@ Most of my work is available on [GitHub](https://github.com/tmcdonell/).
 
 ### Teaching
 
- * 2020: [INFOAFP: Advanced Functional Programming](http://www.cs.uu.nl/education/vak.php?vak=INFOAFP) (joint lecturer)
- * 2019: [INFOB3CC: Concurrency](http://www.cs.uu.nl/education/vak.php?vak=INFOB3CC)
+ * 2020&mdash;: [INFOAFP: Advanced Functional Programming](http://www.cs.uu.nl/education/vak.php?vak=INFOAFP) (joint lecturer)
+ * 2019&mdash;: [INFOB3CC: Concurrency](http://www.cs.uu.nl/education/vak.php?vak=INFOB3CC) (lecturer)
  * 2019: [INFOSP: Computer Software Projects](http://www.cs.uu.nl/education/vak.php?vak=INFOSP) (mentor)
  * 2019: [INFOAFP: Advanced Functional Programming](http://www.cs.uu.nl/education/vak.php?vak=INFOAFP) (joint lecturer)
  * 2018: [INFOB3TC: Talen en Compilers](http://www.cs.uu.nl/education/vak.php?vak=INFOB3TC) (joint lecturer)
